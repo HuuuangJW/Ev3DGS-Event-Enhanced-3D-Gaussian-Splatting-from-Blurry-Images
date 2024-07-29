@@ -1,7 +1,7 @@
 # Ev3DGS: Event Enhanced 3D Gaussian Splatting from Blurry Images
 
 ## Code
-The code is based on [nerf-pytorch](https://github.com/yenchenlin/nerf-pytorch).
+The code is based on [gaussian-splatting](https://github.com/graphdeco-inria/gaussian-splatting).
 
 
 ## Dataset
